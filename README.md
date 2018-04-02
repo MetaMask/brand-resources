@@ -14,6 +14,6 @@ Downloadable vector assets of the MetaMask fox Logo
 
 ## Color Spec
 <p align="left">
-  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox-and-colors.svg" width="350"/>
+  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox-colors.svg" width="350"/>
 </p>
 
