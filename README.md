@@ -1,6 +1,6 @@
 # MetaMask Brand Resources
 
-Downloadable vector assets of the MetaMask fox Logo
+Downloadable vector assets of the MetaMask Logo
 
 ### Just the fox
 <p align="left">
