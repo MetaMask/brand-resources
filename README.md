@@ -14,7 +14,7 @@ Downloadable vector assets of the MetaMask fox Logo
 
 ### Horizontal
 <p align="left">
-  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox-wordmark-horizontal.svg" width="350"/>
+  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox-wordmark-horizontal.svg" width="450"/>
 </p>
 
 ### Color Spec
